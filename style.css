@@ -1,0 +1,89 @@
+
+.info{
+    margin:auto;
+    width:450px
+}
+.learn{
+  
+    color: rgb(52, 126, 195);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+}
+.intro{
+  
+    color: rgb(38, 79, 38);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:100px;
+    height: auto;
+    width:1000px;
+    margin:auto;
+}
+.body{
+ 
+    color: rgba(234, 39, 39, 0.737);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    height: auto;
+    width:900px;
+    margin:auto;
+}
+.container{
+
+    height: 300px;
+    width: 500px;
+    margin:auto;
+    margin-top:50px;
+    border-radius: 30px;
+    border: 3px solid rgb(30, 3, 56);
+    background-color: rgb(55, 55, 82);
+    box-sizing: border-box;
+
+}
+.text{
+    text-align:center;
+    color:rgb(238, 212, 212) ;
+    margin-top: 20px;
+}
+.email{
+    width: 60%;
+    margin-left:90px;
+    margin-top: 30px;
+    padding: 5px;
+    background-color: rgb(238, 212, 212);
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.password{
+    width: 60%;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding: 5px;
+    background-color: rgb(238, 212, 212);
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.midtext{
+    text-align:center;
+    color:rgb(238, 212, 212) ;
+}
+.submit{
+    width: 100px;
+    margin-left: 190px;
+    margin-top: 10px;
+    padding: 10px;
+    color: black;
+    background-color:rgb(208, 210, 213); 
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+.bottom{
+    text-align: center;
+    color:rgb(156, 24, 24) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.end{
+    text-align: center;
+    color:rgb(156, 24, 24) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
